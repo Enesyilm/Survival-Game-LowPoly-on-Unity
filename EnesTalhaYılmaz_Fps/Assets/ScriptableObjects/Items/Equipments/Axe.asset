@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545992da9a7ac845add7b9edf37b08e, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1485932853781933359, guid: 81ece6219bed7014db5e35e3444e3815, type: 3}
+  type: 1
+  description: Cut trees and kill enemies
+  AttackPoint: 10
+  DefencePoint: 0
+  Durability: 100

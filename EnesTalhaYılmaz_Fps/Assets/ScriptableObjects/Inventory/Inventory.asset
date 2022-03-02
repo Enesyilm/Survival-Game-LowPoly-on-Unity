@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72449e27a56445f4bb077ff1706c238a, type: 3}
+  m_Name: Inventory
+  m_EditorClassIdentifier: 
+  container:
+  - item: {fileID: 11400000, guid: 529bca1bd2ab0c845a4dcea39f1cf108, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: fbc4c6a029997a4409d9d3de6eac91e5, type: 2}
+    amount: 0
+  - item: {fileID: 11400000, guid: 440f5ed5d7113174db2578e8be12af94, type: 2}
+    amount: 0
+  - item: {fileID: 11400000, guid: 8104b9027a433af41baedb82efb8d217, type: 2}
+    amount: 0
+  - item: {fileID: 11400000, guid: 64b474817ac2a2443b9f910ad1a4a289, type: 2}
+    amount: 0
+  - item: {fileID: 11400000, guid: cddb589fd9fb06842b57078d97ca6b84, type: 2}
+    amount: 0
+  maxSlotSize: 14
+  currentSlotSize: 6
+  currentSelectedSlot: 5
