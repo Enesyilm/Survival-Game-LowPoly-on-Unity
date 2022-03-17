@@ -19,3 +19,6 @@ Also on Next food
 weather
 ![image](https://user-images.githubusercontent.com/76806086/156387831-8a8c09c8-0f1c-48d9-a9ec-4bc5ff85ba48.png)
 walls
+
+Yaptığım tüm oyunları buradan inceleyebilirsiniz.
+https://www.youtube.com/channel/UCNHCQUFX4luusR8t6BxWLTg
